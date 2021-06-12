@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `th1nkful's place`,
     name: `Joshua Punshon`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://th1nkfulsplace.gatsbyjs.io/`,
     description: `a simple place to put my collection of thoughts`,
     hero: {
       heading: `a simple place to put my collection of thoughts`,
